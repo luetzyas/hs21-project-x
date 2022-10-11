@@ -1,0 +1,31 @@
+Lieber Anastasia Cora,
+
+Für Dein Projekt musst Du das generische, konzeptionelle Entity Relationship Diagramm wie folgt belegen:
+
+ 
+
+Supertype: Person
+
+PType: Driver
+
+RType: Customer
+
+Subject: Dispatch
+
+Object: Journey
+
+prv: drives
+
+rcv: rides
+
+of: along
+
+ 
+
+Weitere Informationen zur Aufgabenstellung findest Du auf der Moodle-Seite dieses Moduls.
+
+ 
+
+Lieber Gruss,
+
+Alexandre de Spindler
